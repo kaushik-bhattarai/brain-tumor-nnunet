@@ -1,0 +1,5 @@
+nnunet_data/
+results/*.csv
+__pycache__/
+*.pth
+*.nii.gz
